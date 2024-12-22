@@ -1,0 +1,45 @@
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Allure results
+allure-result/
+allure-report/
+
+# Log files
+logs/
+*.log
+
+# Screenshot directories
+screenshots/
+screen_shots/
+
+# IDE-specific directories
+.vscode/
+.idea/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Environment files
+.env
+*.env
+
+# Package build directories
+build/
+dist/
+*.egg-info/
+
+# OS generated files
+.DS_Store
+Thumbs.db
